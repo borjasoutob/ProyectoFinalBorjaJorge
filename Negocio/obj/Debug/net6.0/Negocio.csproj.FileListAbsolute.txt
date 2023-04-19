@@ -1,0 +1,15 @@
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Negocio\bin\Debug\net6.0\Negocio.deps.json
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Negocio\bin\Debug\net6.0\Negocio.dll
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Negocio\bin\Debug\net6.0\Negocio.pdb
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Negocio\bin\Debug\net6.0\Acceso Datos.dll
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Negocio\bin\Debug\net6.0\Acceso Datos.pdb
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Negocio\obj\Debug\net6.0\Negocio.csproj.AssemblyReference.cache
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Negocio\obj\Debug\net6.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfoInputs.cache
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfo.cs
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Negocio\obj\Debug\net6.0\Negocio.csproj.CoreCompileInputs.cache
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Negocio\obj\Debug\net6.0\Negocio.csproj.CopyComplete
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Negocio\obj\Debug\net6.0\Negocio.dll
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Negocio\obj\Debug\net6.0\refint\Negocio.dll
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Negocio\obj\Debug\net6.0\Negocio.pdb
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Negocio\obj\Debug\net6.0\ref\Negocio.dll
