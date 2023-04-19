@@ -1,0 +1,12 @@
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Acceso Datos\bin\Debug\net6.0\Acceso Datos.deps.json
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Acceso Datos\bin\Debug\net6.0\Acceso Datos.dll
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Acceso Datos\bin\Debug\net6.0\Acceso Datos.pdb
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Acceso Datos\obj\Debug\net6.0\Acceso Datos.csproj.AssemblyReference.cache
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Acceso Datos\obj\Debug\net6.0\Acceso Datos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Acceso Datos\obj\Debug\net6.0\Acceso Datos.AssemblyInfoInputs.cache
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Acceso Datos\obj\Debug\net6.0\Acceso Datos.AssemblyInfo.cs
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Acceso Datos\obj\Debug\net6.0\Acceso Datos.csproj.CoreCompileInputs.cache
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Acceso Datos\obj\Debug\net6.0\Acceso Datos.dll
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Acceso Datos\obj\Debug\net6.0\refint\Acceso Datos.dll
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Acceso Datos\obj\Debug\net6.0\Acceso Datos.pdb
+E:\Proyecto Final de curso\Proyecto_Borja_y_Jorge\Acceso Datos\obj\Debug\net6.0\ref\Acceso Datos.dll
